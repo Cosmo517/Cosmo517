@@ -27,6 +27,6 @@ Programming Languages: C++, Java, Python, C, JavaScript, C#
 
 ## Socials
 
-[LinkedIn](https://www.linkedin.com/feed/)
+[LinkedIn](https://www.linkedin.com/in/ebielecki/)
 
 [Github](https://github.com/Cosmo517)
